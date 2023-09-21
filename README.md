@@ -2,7 +2,7 @@
 Predicting steady-state flow around bluff bodies using CNNs-DCNNs
 
 **Author:** Ali Kashefi (kashefi@stanford.edu) <br>
-**Description:** <br>
+**Description:** Please see slides for detailed explanations. <br>
 
 **Slides** <br>
 Please see the associated presentation [slides](https://web.stanford.edu/~kashefi/slides/CNN_CFD.pdf).
