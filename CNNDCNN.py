@@ -1,4 +1,4 @@
-##### Point-cloud deep learning for prediction of fluid flow fields on irregular geometries (supervised learning) #####
+##### Predicting steady-state flow around bluff bodies using CNNs-DCNNs (supervised learning) #####
 
 #Author: Ali Kashefi (kashefi@stanford.edu)
 #Description: Implementation of CNN-DCNN for *supervised learning* of computational mechanics
