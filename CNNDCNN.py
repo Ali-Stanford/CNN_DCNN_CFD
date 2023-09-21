@@ -1,3 +1,10 @@
+##### Point-cloud deep learning for prediction of fluid flow fields on irregular geometries (supervised learning) #####
+
+#Author: Ali Kashefi (kashefi@stanford.edu)
+#Description: Implementation of CNN-DCNN for *supervised learning* of computational mechanics
+#Version: 1.0
+#Guidance: We recommend opening and running the code on **[Google Colab](https://research.google.com/colaboratory)** as a first try. 
+
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
