@@ -95,10 +95,10 @@ class CNN_DCNN(tf.keras.Model):
 #model.summary()
 
 # Generate some fake data to test the model
-#n_training = 100
-#n_validation = 10
-#input_training = np.random.rand(n_training, nx, ny, 1).astype(np.float32)
-#output_training = np.random.rand(n_training, nx, ny, 1).astype(np.float32)
+#n_training = 100 # number of geometries
+#n_validation = 10 # number of geometries
+#input_training = np.random.rand(n_training, nx, ny, 1).astype(np.float32) # geometries (e.g., a binary array)
+#output_training = np.random.rand(n_training, nx, ny, 1).astype(np.float32) # velocity around bodies
 #input_validation = np.random.rand(n_validation, nx, ny, 1).astype(np.float32)
 #output_validation = np.random.rand(n_validation, nx, ny, 1).astype(np.float32)
 
