@@ -1,7 +1,7 @@
 # Convolutional Neural Networks (CNNs) - Deconvolutional Neural Networks (DCNNs) for Computational Fluid Dynamics (CFD)
 Predicting steady-state flow around bluff bodies using CNNs-DCNNs
 
-![pic](./Fig1_Revised-1.png)
+![pic](./Fig1.png)
 
 **Author:** Ali Kashefi (kashefi@stanford.edu) <br>
 **Description:** Please see slides for detailed explanations. <br>
